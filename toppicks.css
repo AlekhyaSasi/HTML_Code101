@@ -1,0 +1,48 @@
+html {
+
+  height: 100%;
+
+}
+
+body {
+
+   height: 100%;
+
+}
+
+th {
+    height: 100px;
+text-align: center;
+padding: 10px;
+background-color: #4CAF50;
+color: white;
+font-size: 30 px;
+font-style: oblique;
+font-family: cursive;
+
+}
+table {
+  border-spacing: 0.5rem;
+  border-collapse: separate;
+  width: 100%;
+  border-style: groove;
+  border-width:3px;
+  border-color:#081c30;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+padding: 15px;
+
+}
+.subTitle > th{
+  font-size: 15 px;
+  text-align: left;
+  background-color: #78d22d;
+}
+tr:hover {
+  background-color: #b9bc8f;
+  color: #8b2789;
+  font-weight: bold;
+  font-family: sans-serif;
+}
